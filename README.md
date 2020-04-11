@@ -14,6 +14,9 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
+### npx create-react-app appname
+for createing the react app
+
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
